@@ -8,5 +8,5 @@ class Artist
   
 end 
 
-Artist.name=beyonce 
+
 
